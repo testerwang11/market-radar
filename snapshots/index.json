@@ -1,5 +1,18 @@
 [
   {
+    "time": "2026-10-31T14:09:34+08:00",
+    "status": "ok",
+    "stats": {
+      "indices": 6,
+      "industry": 30,
+      "concept": 0,
+      "stocks": 0,
+      "hist_ok": 5,
+      "hist_fail": 5
+    },
+    "file": "snapshots/2026-10-31-1409.json"
+  },
+  {
     "time": "2026-10-30T14:17:46+08:00",
     "status": "ok",
     "stats": {
@@ -765,18 +778,5 @@
       "hist_fail": 18
     },
     "file": "snapshots/2026-09-13-0036.json"
-  },
-  {
-    "time": "2026-09-12T12:45:45+08:00",
-    "status": "ok",
-    "stats": {
-      "indices": 6,
-      "industry": 30,
-      "concept": 30,
-      "stocks": 12,
-      "hist_ok": 7,
-      "hist_fail": 13
-    },
-    "file": "snapshots/2026-09-12-1245.json"
   }
 ]
